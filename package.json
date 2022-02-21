@@ -1,0 +1,29 @@
+{
+  "name": "removeflows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.19",
+    "@types/aws-lambda": "^8.10.92",
+    "@types/aws-sdk": "^2.7.0",
+    "@aws-sdk/client-connect": "^3.52.0",
+    "winston": "^3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vf-jwright/removeFlows.git"
+  },
+  "author": "jWright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vf-jwright/removeFlows/issues"
+  },
+  "homepage": "https://github.com/vf-jwright/removeFlows#readme"
+}

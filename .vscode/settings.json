@@ -1,0 +1,21 @@
+{
+  "window.title": "${rootName}",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.value": 10,
+
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "editor.showDeprecated": true,
+    "editor.showUnused": true,
+    "editor.trimAutoWhitespace": true,
+    "editor.codeLens": true,
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "indent",
+    "editor.find.autoFindInSelection": "always",
+    "editor.lightbulb.enabled": true
+  }
+}
